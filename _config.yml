@@ -36,7 +36,7 @@ permalink: /:title/
 # facebook: myfacebook
 github: baldeadr
 linkedin: adrian-balderas
-twitter: baldeadr
+#twitter: baldeadr
 #google: username
 #medium: edenau
 #kaggle: edenau
@@ -60,7 +60,7 @@ authors:
         bio: share the joy💪
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: baldeadr
+        #twitter: baldeadr
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -72,7 +72,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -89,7 +89,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+#post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
