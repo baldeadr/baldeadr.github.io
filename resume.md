@@ -35,7 +35,7 @@ title: Resume
 
 <i>Last update September 9, 2019.</i>
 
-<h4>Education</h4>
+<h3>Education</h3>
 <p>
 <ul>
   <li>
@@ -46,10 +46,10 @@ title: Resume
 </li>
 </ul>
 
-<h4>Work Experience</h4>
+<h3>Work Experience</h3>
 <p><i>I am an adaptable professional that embraces teamwork, but also enjoys working independently.</i></p>
 
-<h5>Experience in Electrical Failure Analysis</h5>
+<h4>Experience in Electrical Failure Analysis</h4>
 <ul>
   <li>
 2018 - Present: <b> Diagnostic technician, <i>Ametek ISC.</i></b> Analysis and repair of line defects, electronic schematics interpretation, abilities with soldering iron and electronic measurement instruments. Support in Test engineering department for equipment maintenance. I reduce to $0 USD the failure boards stock.
@@ -58,7 +58,7 @@ title: Resume
     2011 - 2015: <b> Diagnostic technician, <i>Jabil AMS/iQor.</i></b> Electronic diagnostic of TV receiver motherboards, oscilloscope and multimeter management. I document electrical failures in more of 8 differents models.
   </li>
 </ul>
-<h5>Experience in Logistics</h5>
+<h4>Experience in Logistics</h4>
 <p><i>I developed an advanced skills in Microsoft Excel, learning complex formulas and develop macros in VBA code.</i></p>
 
 <ul>
@@ -66,7 +66,7 @@ title: Resume
 2015 - 2017: <b> Customer service, <i>Microsoft SC/iQor.</i></b> I document the logistic process of Customer Service flow, Service Center for customer of Microsoft products, following of issues in the receipt process.
   </li>
 </ul>
-<h5>Experience in Teaching</h5>
+<h4>Experience in Teaching</h4>
 <p><i>I love teaching and helping people.</i></p>
 
 <ul>
@@ -75,7 +75,7 @@ title: Resume
 </li>
 </ul>
 
-<h4>Skills</h4>
+<h3>Skills</h3>
 <p>I am a fast learner and I am interested in learning new programming, automation and control.</p>
 <ul>
 <li>
@@ -93,7 +93,7 @@ Programming languages: Python, C/C++,VBA code, bash, HTML/CSS.
   <li>Natural languages: English (medim), Spanish (native).
   </li>
 </ul>
-<h4>Voluntaring</h4>
+<h3>Voluntaring</h3>
 <ul>
 <li>
 2019 - Present: <b> Founder, <i> Hackerspace Reynosa. </i></b> Community place where people share their interest in tinkering with technology, meet and work on their projects, and learn from each other.
