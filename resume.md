@@ -83,7 +83,7 @@ title: Resume
 Programming languages: Python, C/C++,VBA code, bash, HTML/CSS.
  </li>
   <li>
-    Technologies: PLC logic programming, AutoCAD, Microsoft Excel (advanced), GNU/Linux.
+    Technologies: PLC logic programming, AutoCAD, Microsoft Excel (advanced), GitHub, GNU/Linux.
   </li>
   <li>
     Measurement instruments: Multimeter, Oscilloscope
