@@ -30,8 +30,8 @@ title: Resume
 
 <p></p><p></p>
 <center>
-<a class="button" href="raw/assets/docs/Adrian Balderas - Resume.docx" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Docx version (English)</span></a>
-<a class="button" href="raw/resume/assets/docs/Adrian Balderas - Resume_es.docx" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Docx version (Spanish)</span></a>
+<a class="button" href="../raw/assets/docs/Adrian Balderas - Resume.docx" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Docx version (English)</span></a>
+<a class="button" href="../raw/assets/docs/Adrian Balderas - Resume_es.docx" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Docx version (Spanish)</span></a>
 </center>
 
 <i>Last update September 9, 2019.</i>
