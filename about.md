@@ -8,7 +8,8 @@ layout: page
 >  Engineer ⚙️ · Knowmad 💡 · Open Source enthusiast 💻
 
 <br>
-<!-- <h4>Background</h4>
+{% comment %} 
+<h4>Background</h4>
 
 This is Eden Au. My journey started when I took IT classes in high school where I learned how to code (in Pascal 🐆 for some reasons). My hard work paid off as I was awarded silver medal 🥈 and distinction in Hong Kong Olympiad in Informatics (Senior Group) and Canadian Computing Competition respectively. I built a [School Internal Examination Seating Arrangement System 💯💺]({{ site.url }}/exam-sitting) for secondary schools in Hong Kong in my final year.
 
@@ -36,7 +37,8 @@ In general, I am interested in a) data science (machine learning, control theory
 
 
 <h4>Office</h4>
-Room 6, Crew Annexe, King's Buildings, Alexander Crum Brown Road, Edinburgh EH9 3FF, United Kingdom-->
+Room 6, Crew Annexe, King's Buildings, Alexander Crum Brown Road, Edinburgh EH9 3FF, United Kingdom
+{% endcomment %}
 
 <br>
 <center>
