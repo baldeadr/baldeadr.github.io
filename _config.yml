@@ -36,7 +36,7 @@ permalink: /:title/
 # facebook: myfacebook
 github: baldeadr
 linkedin: adrian-balderas
-#twitter: baldeadr
+twitter: baldeadr
 #google: username
 #medium: edenau
 #kaggle: edenau
@@ -53,6 +53,7 @@ email: adaniel.balderas@gmail.com
 # reddit: au_eden
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+telegram: adbald
 
 authors:
     edenau:
@@ -60,7 +61,7 @@ authors:
         bio: share the joy💪
         external-image: false
         picture: assets/images/profile.jpg
-        #twitter: baldeadr
+        twitter: baldeadr
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
