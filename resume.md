@@ -40,7 +40,7 @@ title: Resume
 <p>
 <ul>
   <li>
-    2012 - 2014: <b> Mechatronics Engineering, <i>Universidad Tecnológica de Tamaulipas Norte.</i></b>Thesis topic: <a href="https://www.dropbox.com/s/ixd4tpzixh6ynau/DISE%C3%91O%20Y%20ELABORACI%C3%93N%20DE%20BANCO%20DE%20PRUEBAS%20PARA%20SUNROOF%20DE%20GM%20PARA%20EL%20%C3%81REA%20DE%20CALIDAD%20DE%20LA%20EMPRESA%20ALCOM%20ELECTR%C3%93NICOS%20DE%20S.A.%20DE%20C.V..pdf?dl=0">Design and development of GM's sunroof buttons bench tester in Quality area for Alcom Electronics.</a>
+    2012 - 2014: <b> Mechatronics Engineering, <i>Universidad Tecnológica de Tamaulipas Norte.</i></b>Thesis topic: <a href="https://www.dropbox.com/s/ixd4tpzixh6ynau/DISE%C3%91O%20Y%20ELABORACI%C3%93N%20DE%20BANCO%20DE%20PRUEBAS%20PARA%20SUNROOF%20DE%20GM%20PARA%20EL%20%C3%81REA%20DE%20CALIDAD%20DE%20LA%20EMPRESA%20ALCOM%20ELECTR%C3%93NICOS%20DE%20S.A.%20DE%20C.V..pdf?dl=0" target="_blank">Design and development of GM's sunroof buttons bench tester in Quality area for Alcom Electronics.</a>
     </li>
 <li>
   2009 - 2011: <b> Mechatronics TSU, <i>Universidad Tecnológica de Tamaulipas Norte. </i></b> Specialized in lean manufacturing. Thesis topic: <a href="http://painterrobot-uttn.blogspot.com/" target="_blank">Design and development of painter robot machine for wooden figures for Green Apple company</a>.
