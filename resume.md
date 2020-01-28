@@ -34,7 +34,7 @@ title: Resume
 <a class="button" href="https://github.com/baldeadr/resume/raw/master/assets/docs/Adrian%20Balderas%20-%20Resume_es.docx" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Docx version (Spanish)</span></a>
 </center>
 
-<i>Last update September 9, 2019.</i>
+<i>Last update January 28, 2020.</i>
 
 <h3>Education</h3>
 <p>
@@ -93,6 +93,13 @@ Programming languages: Python, C/C++,VBA code, bash, HTML/CSS.
   </li>
   <li>Natural languages: English (medium), Spanish (native).
   </li>
+</ul>
+<h3>Courses & Certifications</h3>
+<ul>
+<li>
+* Yellow Belt course
+* Black Belt Certification (coursing)
+</li>
 </ul>
 <h3>Voluntaring</h3>
 <ul>
