@@ -100,7 +100,7 @@ Programming languages: Python, C/C++,VBA code, bash, HTML/CSS.
 Yellow Belt course
 </li>
 <li>
-Black Belt Certification (coursing)
+Green Belt Certification (coursing)
 </li>
 </ul>
 <h3>Voluntaring</h3>
