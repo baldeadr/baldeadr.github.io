@@ -75,7 +75,7 @@
         <header class="section-header">
           <h2>Education</h2>
         </header>
-
+          <p class="resume-item-copy">{{ education.summary }}</p>
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
