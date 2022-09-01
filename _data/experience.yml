@@ -3,7 +3,7 @@
 - company: Corning RCC
   position: Controls Engineer
   duration: Mar, 2022 &mdash; Present
-  summary: Support of internal Manufacturing Execution System (CoMET), support to real-time data management system (PI System software), development and implementation of HMI/SCADA pictures (GE iFIX software). <ul><li>Developed a new downtime system to user friendly report line issues through HMI.</li><li>Developed a smart badge ID system to monitoring technicians to know in real time they take to fix an specific issue. Also, was made a fork to allow access authorized personal to do some tasks in procution lines.</li></ul>
+  summary: Support of internal Manufacturing Execution System (CoMET), support to real-time data management system (PI System software), development and implementation of HMI/SCADA pictures (GE iFIX software). <ul><li>Developed a new downtime system to user friendly report line issues through HMI.</li><li>Developed a smart badge ID system to monitoring technicians to know in real time they take to fix an specific issue. Also, was made a fork to allow access authorized personal to do some restricted tasks in procution lines.</li></ul>
 
 - company: Ametek Lamb - ISC Division
   position: Failure Analysis Technician
